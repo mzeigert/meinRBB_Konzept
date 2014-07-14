@@ -1,0 +1,8 @@
+- Startseite - Buttons
+- Use Case:
+--> Login 	--> Startseite (nk)
+		--> Startseite Show Modus (nk)
+			--> Meine Favouriten (nk)
+			--> Suche (nk)
+			--> Beitrag verfassen (mz)
+			--> Profilseite (mz)
